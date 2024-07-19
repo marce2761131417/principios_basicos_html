@@ -1,0 +1,32 @@
+/*
+selectores de tipo
+*/
+
+h1{
+    color: #00B;
+}
+/*
+span{
+    color: #0B0;
+}*/
+
+/*
+Selector de clase
+*/
+.contenedor{
+    background-color: #00B;
+    color: #FFF;
+}
+/*Selector por identificador*/
+
+#contenedor2{
+    color: #00B;
+}
+/*selectores anidados*/
+div span{
+    font-size: 2em;
+}
+span a
+{
+    text-decoration: none;
+}
