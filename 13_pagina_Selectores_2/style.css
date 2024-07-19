@@ -1,0 +1,17 @@
+ul#lista > li{
+    font-weight: bold;
+}
+
+li.letra:first-child{
+    font-size: 1em;
+}
+.letra::first-letter{font-size: 3em;}
+
+.linea::first-line{
+    font-size: 2em;
+}
+
+a[href="#"]{color: green;}
+a[title="Buscador"]{color: blue;}
+a[id|=segundo]{background-color: aqua;}
+a[title="Página del curso"]{color: red;}
